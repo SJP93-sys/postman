@@ -1,0 +1,43 @@
+{
+	"info": {
+		"_postman_id": "7c5d8f91-1303-4e40-a59d-90c9b2bd241e",
+		"name": "Colección Chuck Norris",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "46842990",
+		"_collection_link": "https://harrison-9412684.postman.co/workspace/Harrison's-Workspace~57a2e2c3-777b-4368-8319-e708ec7b0f7b/collection/46842990-7c5d8f91-1303-4e40-a59d-90c9b2bd241e?action=share&source=collection_link&creator=46842990"
+	},
+	"item": [
+		{
+			"name": "Broma random",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Broma deportes",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "lista de categorias",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "new joke",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
